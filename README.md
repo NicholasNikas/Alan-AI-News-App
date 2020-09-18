@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A voice controlled news application where users can read and navigate though news articles with their voice.
+
+Implemented using:
+
+Alan AI - https://alan.app/
+News API - https://newsapi.org/
 
 ## Available Scripts
 
