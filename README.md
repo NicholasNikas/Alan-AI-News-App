@@ -2,7 +2,7 @@ A voice controlled news application where users can read and navigate though new
 
 Implemented using:
 
-Alan AI - https://alan.app/
+Alan AI - https://alan.app/ <br />
 News API - https://newsapi.org/
 
 ## Available Scripts
